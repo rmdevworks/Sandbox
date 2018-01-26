@@ -1,0 +1,29 @@
+{
+  "name": "rob-josh-todo-fullstack",
+  "version": "1.0.0",
+  "description": "A full stack todo list application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmdevworks/Sandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmdevworks/Sandbox/issues"
+  },
+  "homepage": "https://github.com/rmdevworks/Sandbox#readme",
+  "devDependencies": {
+    "body-parser": "^1.18.2",
+    "bootstrap": "^4.0.0",
+    "cors": "^2.8.4",
+    "dotenv": "^4.0.0",
+    "express": "^4.16.2",
+    "http-server": "^0.11.1",
+    "mongoose": "^5.0.1",
+    "morgan": "^1.9.0"
+  }
+}
